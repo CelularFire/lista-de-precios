@@ -1,1 +1,1 @@
-window.location = 'https://drive.google.com/file/d/1jHnEGoUR4doMXWiQ6_OaCXDe-J2eVtVn/view?usp=sharing';
+window.location = 'https://docs.google.com/spreadsheets/d/1hVsyRProxn7bantO0bcqqT6yurydVKxV/edit?usp=sharing&ouid=114587411475989365729&rtpof=true&sd=true';
